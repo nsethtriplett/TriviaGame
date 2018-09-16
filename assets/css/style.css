@@ -1,0 +1,13 @@
+
+
+.jumbotron {
+    background-color: lightsalmon;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 50px;
+}
+
+.answer-options {
+    margin: 20px none;
+    background-image: url(/assets/images/Dr.-Seuss-quote.jpg);
+}
